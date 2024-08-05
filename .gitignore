@@ -66,9 +66,6 @@ yarn.lock
 # Ignore build artifacts
 *.out
 
-# Ignore generated CSS
-*.css
-
 # Ignore storybook build output
 out/
 .storybook-out/
